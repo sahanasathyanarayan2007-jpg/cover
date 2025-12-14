@@ -53,8 +53,8 @@ cover.html
               learn, and imagine the future.
         </p>
         <div class="quote">
-            “AI is not replacing human intelligence; it is revealing
-             how much more we can create when imagination meets computation.”
+            AI is not replacing human intelligence; it is revealing
+             how much more we can create when imagination meets computation.
         </div>
         <div class="author">
             <img src="img.png.jpeg" class="aut-img">
@@ -70,7 +70,7 @@ cover.html
         </div>
         <div class="footer">
             <span class="publisher">SEC PUBLISHER</span>
-            <span class="price">Price:₹499</span>
+            <span class="price">Price:499/-</span>
         </div>
 
     </div>
@@ -175,7 +175,7 @@ footer{
 
 
 ## OUTPUT:
-![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (29).png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
